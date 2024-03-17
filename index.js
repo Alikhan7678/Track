@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://fedb3815-1cbb-41b3-a77c-006cc586c162-00-30v1otsw4wygf.pike.replit.dev/";
+var hostURL="https://track-5c5q.onrender.com/";
 //TOGGLE for Shorters
 var use1pt=false;
 
